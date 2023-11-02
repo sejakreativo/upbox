@@ -1,0 +1,15 @@
+{
+	"home_page_title": "Home",
+	"menus": {
+		"primary": "Primary"
+	},
+	"templates": {
+		"header-template": "Header",
+		"footer-template": "Footer"
+	},
+	"content_plugins": {
+		"hub-core": "Hub Core",
+		"elementor": "Elementor",
+		"hub-elementor-addons": "Hub Elementor Addons"
+	}
+}
